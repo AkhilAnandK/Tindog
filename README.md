@@ -1,2 +1,2 @@
 # Tindog
-A website built using html, css, Bootstrap
+A website built using HTML, CSS, Bootstrap5
